@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/Zephyr6675/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Zephyr6675/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Zephyr6675/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Zephyr6675/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zephyr6675/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Zephyr6675/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
