@@ -24,6 +24,7 @@
 | [0031-next-permutation](https://github.com/Zephyr6675/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Zephyr6675/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Zephyr6675/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Zephyr6675/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Zephyr6675/leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -79,5 +80,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Zephyr6675/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Zephyr6675/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
