@@ -21,6 +21,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Zephyr6675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Zephyr6675/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Zephyr6675/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Zephyr6675/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/Zephyr6675/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Zephyr6675/leetcode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/Zephyr6675/leetcode/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Zephyr6675/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/Zephyr6675/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Zephyr6675/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Zephyr6675/leetcode/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Zephyr6675/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +128,5 @@
 | [0054-spiral-matrix](https://github.com/Zephyr6675/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Zephyr6675/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Zephyr6675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Zephyr6675/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
